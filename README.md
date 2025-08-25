@@ -28,6 +28,6 @@ Además, incluye una **cámara ESP32-CAM** para la detección de objetos y una *
 - MeArm + Tornillos
 - Sensor de Ultrasonido. (˜$7000)  
 - Fuente de alimentación (baterías) 
-- Control Remoto | Receptor IR. (˜$7000)
+- Control Remoto | Receptor IR. (˜$7500)
 - Imanes para acoplar 2 carros. 
 - Jumpers, protoboard y componentes electrónicos varios. 
