@@ -20,14 +20,14 @@ Además, incluye una **cámara ESP32-CAM** para la detección de objetos y una *
 
 ## Hardware Requerido
 
-- Raspberry Pi Pico 2 W  
-- ESP32-CAM  
-- Motores (servos o DC con controladores tipo L298N)  
+- Raspberry Pi Pico 2 W (˜$38000)  
+- ESP32-CAM (˜$38000) 
+- Motores (servos o DC con controladores tipo L298N) 
 - Brazo mecánico ensamblado  
 - Imán electromagnético
 - MeArm + Tornillos
-- Sensor de Ultrasonido.   
-- Fuente de alimentación (baterías)
-- Control Remoto | Receptor IR.
-- Imanes para acoplar 2 carros.
+- Sensor de Ultrasonido. (˜$7000)  
+- Fuente de alimentación (baterías) 
+- Control Remoto | Receptor IR. (˜$7000)
+- Imanes para acoplar 2 carros. 
 - Jumpers, protoboard y componentes electrónicos varios. 
