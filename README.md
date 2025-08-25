@@ -23,7 +23,7 @@ Además, incluye una **cámara ESP32-CAM** para la detección de objetos y una *
 - Raspberry Pi Pico 2 W  
 - ESP32-CAM  
 - Motores (servos o DC con controladores tipo L298N)  
-- Brazo mecánico impreso en 3D o ensamblado  
+- Brazo mecánico ensamblado  
 - Imán electromagnético  
 - Fuente de alimentación (batería o adaptador)  
-- Jumpers, protoboard y componentes electrónicos  
+- Jumpers, protoboard y componentes electrónicos varios. 
