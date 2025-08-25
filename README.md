@@ -29,5 +29,5 @@ Además, incluye una **cámara ESP32-CAM** para la detección de objetos y una *
 - Sensor de Ultrasonido.   
 - Fuente de alimentación (baterías)
 - Control Remoto | Receptor IR.
-- Imanes para acoplar.  
+- Imanes para acoplar 2 carros.
 - Jumpers, protoboard y componentes electrónicos varios. 
