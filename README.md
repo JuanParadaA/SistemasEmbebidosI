@@ -16,7 +16,7 @@ Además, incluye una **cámara ESP32-CAM** para la detección de objetos y una *
 
 ---
 
-## 🛠️ Hardware Requerido
+## Hardware Requerido
 
 - Raspberry Pi Pico 2 W  
 - ESP32-CAM  
