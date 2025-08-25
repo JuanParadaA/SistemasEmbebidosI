@@ -24,6 +24,8 @@ Además, incluye una **cámara ESP32-CAM** para la detección de objetos y una *
 - ESP32-CAM  
 - Motores (servos o DC con controladores tipo L298N)  
 - Brazo mecánico ensamblado  
-- Imán electromagnético  
+- Imán electromagnético
+- MeArm + Tornillos
+- Sensor de Ultrasonido.   
 - Fuente de alimentación (batería o adaptador)  
 - Jumpers, protoboard y componentes electrónicos varios. 
