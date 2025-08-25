@@ -1,5 +1,7 @@
 # Robot IoT con Brazo Mecánico y Cámara
 
+## Introducción
+
 Este proyecto implementa un **robot con brazo mecánico** que puede moverse utilizando motores controlados vía **IoT**, equipado con un **imán** para recoger objetos metálicos del suelo.  
 Además, incluye una **cámara ESP32-CAM** para la detección de objetos y una **Raspberry Pi Pico 2 W** para el control principal del brazo.
 
