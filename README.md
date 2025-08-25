@@ -27,5 +27,5 @@ Además, incluye una **cámara ESP32-CAM** para la detección de objetos y una *
 - Imán electromagnético
 - MeArm + Tornillos
 - Sensor de Ultrasonido.   
-- Fuente de alimentación (batería o adaptador)  
+- Fuente de alimentación (baterías)  
 - Jumpers, protoboard y componentes electrónicos varios. 
