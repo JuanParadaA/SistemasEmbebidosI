@@ -22,7 +22,8 @@ Además, incluye una **cámara ESP32-CAM** para la detección de objetos y una *
 
 - Raspberry Pi Pico 2 W (˜$38000)  
 - ESP32-CAM (˜$38000) 
-- Motores (servos o DC con controladores tipo L298N) 
+- Motores (servos o DC)
+- Controlador de motor (Driver) L298N. 
 - Brazo mecánico ensamblado  
 - Imán electromagnético
 - MeArm + Tornillos
